@@ -1,0 +1,18 @@
+# Local data
+data/
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+.env.*
+
+# Google Cloud credentials
+scripts/gcp-key.json
+*service-account*.json
