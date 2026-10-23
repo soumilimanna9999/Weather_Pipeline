@@ -103,7 +103,7 @@ This view supports the analysis of the hottest countries that meet the populatio
 
 **Dashboard Name:** WeatherScope — Global Weather & Demographics Analytics
 
-**Dashboard Link:**(https://datastudio.google.com/reporting/092160f9-53e6-438a-bd69-0298176bbb55/page/I2xBG))
+**Dashboard Link:**(https://datastudio.google.com/reporting/092160f9-53e6-438a-bd69-0298176bbb55/page/I2xBG)
 
 ### Dashboard Features
 
